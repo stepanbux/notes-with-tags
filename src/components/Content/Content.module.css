@@ -1,0 +1,12 @@
+.content_wrapper {
+    margin-top: 10px;
+    width: 610px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.content_search_area {
+    display: flex;
+    flex-direction: column;
+}

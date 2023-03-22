@@ -1,0 +1,28 @@
+.header_wrapper {
+    margin-top: 20px;
+    padding: 10px;
+    width: 590px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_textarea {
+    height: 50px;
+    width: 490px;
+}
+
+.header_button {
+    width: 70px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(83, 255, 83);
+    cursor: pointer;
+}

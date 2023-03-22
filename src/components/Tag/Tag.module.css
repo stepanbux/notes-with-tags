@@ -1,0 +1,20 @@
+.tag_wrapper {
+    min-width: 50px;
+    width: auto;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tag_button {
+    border: none;
+    margin-left: 5px;
+    background-color: rgba(255, 255, 255, 0);
+    cursor: pointer;
+    color: red
+}
